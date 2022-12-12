@@ -1,6 +1,6 @@
 # Simple Web Page
 ## Description 
-The user can 
+The user can insert its data, which will be validated to send an alert.
 
 ## Initial Page
 
